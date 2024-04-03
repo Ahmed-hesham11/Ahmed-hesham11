@@ -1,5 +1,5 @@
 # Hello, I'm Ahmed Hesham! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
-⚙️I'm a Computer Science student.<br>🌱 
+⚙️ Computer Science student.<br>🌱 
 
 # 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hesham-76a29a285/) 
