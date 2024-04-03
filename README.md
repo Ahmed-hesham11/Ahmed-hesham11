@@ -2,7 +2,7 @@
 ⚙️I'm a Computer Science student.<br>🌱 
 
 # 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/osman-mohammed-434661108](https://www.linkedin.com/in/ahmed-hesham-76a29a285/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ahmed-hesham-76a29a285/)) ]
 
 
 <!---
